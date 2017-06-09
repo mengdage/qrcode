@@ -184,7 +184,7 @@ gulp.task('serve:dist', ['default'], function() {
     //       will present a certificate warning in the browser.
     // https: true,
     server: 'dist',
-    baseDir: "dist"
+    baseDir: 'dist'
   });
 });
 
